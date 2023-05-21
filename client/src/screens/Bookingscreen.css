@@ -1,0 +1,14 @@
+.card .minimage{
+    width: 90%;
+    float: left;
+}
+
+.myclass p{
+    margin: 0 !important;
+}
+
+/* @media screen and (max-width: 900px) {
+    .mycard {
+display: block;
+    }
+  } */
